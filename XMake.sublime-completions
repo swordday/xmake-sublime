@@ -246,8 +246,6 @@
         "$(shell)",     
         "$(env)",
         "$(reg)",
-        "option",
-        "option_end",
         "var",
         "import",
         "inherit",
